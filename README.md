@@ -48,8 +48,8 @@ without predefined labels, using unsupervised machine learning.
 
 ## 📸 Dashboard Preview
 
-![Dashboard Top](outputs/images/dashboard_top.png)
-![Dashboard Bottom](outputs/images/dashboard_bottom.png)
+![Dashboard Top](assets/dashboard_top.png)
+![Dashboard Bottom](assets/dashboard_bottom.png)
 
 ## 📊 Dashboard Features
 
