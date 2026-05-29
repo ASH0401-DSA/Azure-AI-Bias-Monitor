@@ -46,6 +46,11 @@ without predefined labels, using unsupervised machine learning.
 - **Visualisation:** Plotly (Interactive Dashboard)
 - **Version Control:** Git, GitHub
 
+## 📸 Dashboard Preview
+
+![Dashboard Top](outputs/images/dashboard_top.png)
+![Dashboard Bottom](outputs/images/dashboard_bottom.png)
+
 ## 📊 Dashboard Features
 
 - Gender bias breakdown by profession
